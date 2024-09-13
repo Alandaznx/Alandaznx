@@ -1,15 +1,15 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Alanda
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :
 
-paludettomarcelo@gmail.com
+alanda.hupalo@escola.pr.gov.br
 
-@marcelopaludetto
+alanda.hupalo@escola.pr.gov.br
 
-![descrição do GIF](link GIF do Tenor)
+![](https://media1.tenor.com/m/zjl7QIsYBW8AAAAd/adriana-adriana-lima.gif)
